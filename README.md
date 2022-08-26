@@ -1,2 +1,2 @@
-# Rakhpatovakmal.github.io
+# Рахпатов Акмаль
 Мой первый сайт
